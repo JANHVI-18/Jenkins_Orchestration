@@ -101,6 +101,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
   <img src="" alt="Configure Jenkins 1">
 
   <img src="https://github.com/JANHVI-18/Jenkins_Orchestration/blob/main/images/ss9.png" alt="Configure Jenkins 2">
+  <img src="https://github.com/JANHVI-18/Jenkins_Orchestration/blob/main/images/ss10.png" alt="Create pipeline 1">
 </div>
 
 7. Create Pipeline Project:
@@ -117,11 +118,14 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
      - Click "Save"
 
 <div align="center">
-  <img src="https://github.com/JANHVI-18/Jenkins_Orchestration/blob/main/images/ss10.png" alt="Create pipeline 1">
-
-  <img src="" alt="Create pipeline 2">
+  
 
   <img src="https://github.com/JANHVI-18/Jenkins_Orchestration/blob/main/images/ss11.png" alt="Create pipeline 2">
+  <img src="https://github.com/JANHVI-18/Jenkins_Orchestration/blob/main/images/ss12.png" alt="Create pipeline 2">
+   
+
+  <img src="https://github.com/JANHVI-18/Jenkins_Orchestration/blob/main/images/ss13.png" alt="Install Docker 4">
+
 </div>
 
 8. Install and Configure Docker in Jenkins Container:
@@ -141,9 +145,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
 
   <img src="https://github.com/JANHVI-18/Jenkins_Orchestration/blob/main/images/ss15.png" alt="Install Docker 2">
 
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot15.png" alt="Install Docker 3">
 
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot16.png" alt="Install Docker 4">
 </div>
 
 9. Install Docker Plugins:
