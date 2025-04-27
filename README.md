@@ -1,6 +1,3 @@
-Here's your enhanced version of the documentation with some fun and engaging emojis added:
-
----
 
 # Python Application with Jenkins CI/CD Pipeline 🚀
 
