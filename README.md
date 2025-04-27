@@ -51,7 +51,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
  ```
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot1.png" alt="Pull and start Jenkins">
+  <img src="https://github.com/JANHVI-18/Jenkins_Orchestration/blob/main/images/ss2.png" alt="Pull and start Jenkins">
 </div>
 
 2. Get initial admin password:
@@ -60,7 +60,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
  ```
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot2.png" alt="Get initial admin password">
+  <img src="https://github.com/JANHVI-18/Jenkins_Orchestration/blob/main/images/ss2.png" alt="Get initial admin password">
 </div>
 
 3. Access Jenkins:
