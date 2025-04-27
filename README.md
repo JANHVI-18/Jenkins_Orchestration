@@ -60,7 +60,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
  ```
 
 <div align="center">
-  <img src="https://github.com/JANHVI-18/Jenkins_Orchestration/blob/main/images/ss2.png" alt="Get initial admin password">
+  <img src="https://github.com/JANHVI-18/Jenkins_Orchestration/blob/main/images/ss3.png" alt="Get initial admin password">
 </div>
 
 3. Access Jenkins:
@@ -68,7 +68,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
    - Enter the initial admin password from step 2
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot3.png" alt="Access Jenkins">
+  <img src="https://github.com/JANHVI-18/Jenkins_Orchestration/blob/main/images/ss4.png" alt="Access Jenkins">
 </div>
 
 4. Install plugins:
@@ -76,9 +76,9 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
    - Wait for installation to complete
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot4.png" alt="Install plugins 1">
+  <img src="https://github.com/JANHVI-18/Jenkins_Orchestration/blob/main/images/ss5.png" alt="Install plugins 1">
 
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot5.png" alt="Install plugins 2">
+  <img src="https://github.com/JANHVI-18/Jenkins_Orchestration/blob/main/images/ss6.png" alt="Install plugins 2">
 </div>
 
 5. Create first admin user:
@@ -88,9 +88,9 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
    - Click "Save and Continue"
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot6.png" alt="Create admin user">
+  <img src="https://github.com/JANHVI-18/Jenkins_Orchestration/blob/main/images/ss7.png" alt="Create admin user">
 
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot7.png" alt="Create admin user">
+  <img src="https://github.com/JANHVI-18/Jenkins_Orchestration/blob/main/images/ss8.png" alt="Create admin user">
 </div>
 
 6. Configure Jenkins instance:
@@ -98,9 +98,9 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
    - Click "Save and Finish"
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot8.png" alt="Configure Jenkins 1">
+  <img src="" alt="Configure Jenkins 1">
 
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot9.png" alt="Configure Jenkins 2">
+  <img src="https://github.com/JANHVI-18/Jenkins_Orchestration/blob/main/images/ss9.png" alt="Configure Jenkins 2">
 </div>
 
 7. Create Pipeline Project:
@@ -117,11 +117,11 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
      - Click "Save"
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot10.png" alt="Create pipeline 1">
+  <img src="https://github.com/JANHVI-18/Jenkins_Orchestration/blob/main/images/ss10.png" alt="Create pipeline 1">
 
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot11.png" alt="Create pipeline 2">
+  <img src="" alt="Create pipeline 2">
 
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot12.png" alt="Create pipeline 2">
+  <img src="https://github.com/JANHVI-18/Jenkins_Orchestration/blob/main/images/ss11.png" alt="Create pipeline 2">
 </div>
 
 8. Install and Configure Docker in Jenkins Container:
@@ -137,9 +137,9 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
  ```
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot13.png" alt="Install Docker 1">
+  <img src="https://github.com/JANHVI-18/Jenkins_Orchestration/blob/main/images/ss14.png" alt="Install Docker 1">
 
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot14.png" alt="Install Docker 2">
+  <img src="https://github.com/JANHVI-18/Jenkins_Orchestration/blob/main/images/ss15.png" alt="Install Docker 2">
 
   <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot15.png" alt="Install Docker 3">
 
